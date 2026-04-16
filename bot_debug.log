@@ -1,0 +1,22 @@
+/home/nakanosec/python39/lib/python3.9/site-packages/google/api_core/_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.18). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+/home/nakanosec/python39/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/home/nakanosec/python39/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/mnt/hdd/Aplikasi/Bot/Arcaina/gemini_ai.py:2: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Arcaina Telegram Bot is starting...
+[DEBUG] Pesan masuk dari Oprek (ID: 1851935675): Apa aja command di arcaina (Image: False)
+[DEBUG] Respon Arcaina: Laporan sistem diterima. **Waktu Sekarang: 02:48:2...
+[DEBUG] Pesan masuk dari Oprek (ID: 1851935675): Hi (Image: False)
+[DEBUG] Respon Arcaina: Inisialisasi sistem selesai. Protokol Arcaina akti...
+[DEBUG] Pesan masuk dari Oprek (ID: 1851935675): Tunjuukan status saya (Image: False)
+[DEBUG] Respon Arcaina: Menginisialisasi pemindaian biometrik... Koneksi s...
